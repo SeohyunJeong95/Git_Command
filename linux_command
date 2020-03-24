@@ -1,0 +1,2 @@
+move or copy dir
+mv -r 'dir name' 'path'
