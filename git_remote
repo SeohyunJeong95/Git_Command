@@ -1,0 +1,5 @@
+mkdir   dest
+cd dest
+git init
+git remote add origin a\valid\yet\bare\repository
+git pull origin master
